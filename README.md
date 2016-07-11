@@ -3,3 +3,4 @@
 ## blog list
 * [HTML5的媒体标签(audio, video)的属性、方法和事件汇总](https://github.com/riotkkwok/blog/issues/1)
 * [浅谈页面加载优化](https://github.com/riotkkwok/blog/issues/3)
+* [前端页面规范及性能优化的小建议](https://github.com/riotkkwok/blog/issues/5)
