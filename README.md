@@ -6,3 +6,4 @@
 * [前端页面规范及性能优化的小建议](https://github.com/riotkkwok/blog/issues/5)
 * [如何应对页面内容劫持（篡改）](https://github.com/riotkkwok/blog/issues/6)
 * [XMLHttpRequest的相关属性、方法及事件](https://github.com/riotkkwok/blog/issues/7)
+* [前端安全问题(XSS与CSRF)](https://github.com/riotkkwok/blog/issues/8)
