@@ -9,5 +9,5 @@
 * [前端安全问题(XSS与CSRF)](https://github.com/riotkkwok/blog/issues/8)
 * [ArrayBuffer、TypedArray与DataView](https://github.com/riotkkwok/blog/issues/9)
 * [JS之History对象](https://github.com/riotkkwok/blog/issues/10)
-* [JS之postMessage](https://github.com/riotkkwok/blog/issues/11)
+* [JS之postMessage()](https://github.com/riotkkwok/blog/issues/11)
 * [JS之Performance](https://github.com/riotkkwok/blog/issues/12)
