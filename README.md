@@ -11,3 +11,4 @@
 * [JS之History对象](https://github.com/riotkkwok/blog/issues/10)
 * [JS之postMessage()](https://github.com/riotkkwok/blog/issues/11)
 * [JS之Performance](https://github.com/riotkkwok/blog/issues/12)
+* [小结使用Phantomjs遇到的坑](https://github.com/riotkkwok/blog/issues/13)
